@@ -54,3 +54,15 @@ Export to PDF along with DOCX
 Role-based access (Admin, Faculty, Reviewer)
 
 Analytics dashboard for question paper history
+
+
+
+
+
+
+
+OUTPUT IMAGE:
+
+
+
+<img width="922" height="608" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/8fa3c8e9-3b86-4687-a153-e6769f603b92" />
